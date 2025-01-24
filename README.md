@@ -2,19 +2,6 @@
 
 This is a simple monorepo project using **TurboRepo** to manage both a **backend (Express.js)** and a **frontend (React)** app. TurboRepo helps us run and build these apps efficiently while sharing dependencies and configurations.
 
-## Project Structure
-
-my-turbo-repo/
-├── apps/                  # Contains all applications (e.g., backend, frontend)
-│   ├── backend/           # Express.js backend app
-│   └── web/               # React frontend app
-├── packages/              # Shared packages (optional)
-├── turbo.json             # TurboRepo configuration file
-├── package.json           # Root package.json for the monorepo
-├── yarn.lock / package-lock.json # Lock files for dependency management
-└── .gitignore             # Git ignore file
-
-
 
 - **`apps/backend/`**: The backend app built with Express.js.
 - **`apps/web/`**: The frontend app built with React.
