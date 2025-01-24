@@ -1,6 +1,9 @@
 # TurboRepo Monorepo: Backend and Frontend Example
 
+A monorepo, short for "monolithic repository," is a single repository that contains all the code for multiple projects or components of a larger application. Instead of having separate repositories for frontend, backend, and DevOps code, a monorepo consolidates everything into a single repository.
+
 This is a simple monorepo project using **TurboRepo** to manage both a **backend (Express.js)** and a **frontend (React)** app. TurboRepo helps us run and build these apps efficiently while sharing dependencies and configurations.
+
 
 
 - **`apps/backend/`**: The backend app built with Express.js.
