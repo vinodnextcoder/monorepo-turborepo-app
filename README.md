@@ -4,7 +4,7 @@ This is a simple monorepo project using **TurboRepo** to manage both a **backend
 
 ## Project Structure
 
-my-turbo-repo/ │
+my-turbo-repo/
 ├── apps/ │
 ├── backend/ # Express.js backend app 
 │ └── web/ # React frontend app │ 
